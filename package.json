@@ -19,5 +19,8 @@
   },
   "peerDependencies": {
     "koa": "^2.13.4"
-  }
+  },
+  "files": [
+    "build"
+  ]
 }
